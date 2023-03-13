@@ -1,11 +1,5 @@
 class Calculator:
     def multiply(self, x, y):
-        """
-
-        :param x:
-        :param y:
-        :return:
-        """
         return x * y
 
     def division(self, x, y):
